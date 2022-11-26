@@ -1,0 +1,22 @@
+{
+	"client_id": "*some big integer here*",
+	"guild_id": "*another big integer here*",
+	"data_dir": "data",
+	"reaction_map": {
+		"0️⃣": { "value": 0 },
+		"1️⃣": { "value": 1 },
+		"2️⃣": { "value": 2 },
+		"3️⃣": { "value": 3 },
+		"4️⃣": { "value": 4 },
+		"5️⃣": { "value": 5 },
+		"6️⃣": { "value": 6 },
+		"7️⃣": { "value": 7 },
+		"8️⃣": { "value": 8 },
+		"9️⃣": { "value": 9 },
+		"🔟": { "value": 10 },
+
+		"🇧": { "skip": true },
+
+		"🍉": { "ignore_user": "Kavun#1234" }
+	}
+}
